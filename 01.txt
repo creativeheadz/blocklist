@@ -1,0 +1,4 @@
+0.0.0.0 bbc.com
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 (\.|^)tagesschau\.de$
